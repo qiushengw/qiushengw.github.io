@@ -1,4 +1,7 @@
-###Finalized the CMS solution
+---
+title:  "Finalized CMS Solution, Know what we need, what we have"
+categories: jekyll
+---
 Below Goal need to archive in next week: [22 Sep ~ 29 Sep]
   1) Write Containerization document for application. including DB setup, System config.
   2) Write Infra structure to supporth application.
